@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mimirhome-app",
+  "private_key_id": "7d03c66c57d79e773b9634a0688d663042677a09",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCcatreYKmoqYDb\nv3/hZIzgCb3v7R71Tofsst2nKPLOLbBsIzIYib3ElO/vTiRfhtISEIGT4CQZk04S\n6+oQvqTv1ekSR8XYIoOvVDDj+JtdnWNG9vqjbDqQ3NWfvKvXmaDTqU/l4esyas5L\nDKQJPUNoraVbZEv8Vn23Cd50t55AqZt1w6BUdXNGiPNOpTZXn9wPY5ATiJ2WAnQ9\n1pKug1PfaPyypPzn0gqZCzfiC7epNC+89EiMxhdbr31RjFHdIR0c7J8OAgxoutjg\nFOkVaSOKDLi2RQIQpVFovy5p7DkM6T4SZVXyMRBGOhDBQkL9XhgXu5P378lGiGJv\nuaEymlr3AgMBAAECggEAGiF9y/3BCiS7Grr8vaZDJKBsAzuNWvTSH1hoUCc2nPwk\nB4S/tzq3obIx/TwENpM63/qy8wXUchNaTS3tTfvTaR/Gzp9/7VIixrUdb9BWAEct\nUSsshwWrKQ1DgOqPmLaZGBMmfmSGGseeDAqiEssRyliMEd8JFLBMUzpKWBxeyzVn\nXA/03rWoGExD73Pr0WbBFrDmqpDMkoBBh8zwN+9va9U3HFy78aC8c0NwX1yRgnan\nZhRnfpajgCSsVYHm9DeKnhQtWbiIB6sGR254/o54l2Jlz1PGZva6zX3Lq3WK+Rvj\nULP/SFcAsVn8j6yop2VjGikZweIk7r0AOMhxVwPHAQKBgQDarw+kfnxPH5OedWNf\nvLaNlQhaBkANwoHekveLXEcW0E9KLjjlqJgTjWu1bDy7453+IONvHg0HpNw8JmHo\nG85xZg3SeaS218wFe3LeSL4NmDsOVxFc0LycUomnHvOmkrYfL8Fq5f3RWBxDfXdW\nVA4VFtexBRLwJmdsjzXqo5N/9wKBgQC3G8KWZmSKTGKCWGa3pre5jtndOUQjrS7Q\n/J24v5EehvpL3hu4Eq3baFwGgQ6HEg3p8w1dGQwi4YdbQkj/d/YdvxsLht03odw/\n9SoF6XPdfd3vxtRki6cOPOeCkE5Q9/PQq3N1eV1wMCq79U4gQL8TxHRDBslgBSiw\nb9rwAn89AQKBgEUpbqIQmtIPY4mPCMHDllzK0JxgM6vmY1p4UrARnC4b7afBXJ9N\npeMxK+px8/dccqBn2GZRM7/CJSEk5nwZJz54D1EMxcpKD62AMIEasnjsN2k+ojAf\nmDc8Z2qigF6jMdRFLz/Ww2KNIks6CB8WcGm9ErRarXWkP7t2w4+U8lZbAoGBAI+N\nKOFmRr4Rok0T5vtlrbXAo1aHFb9ufzyCP1hefvPS2BlweIS3yCsxxqums+/6nIPj\n838gKt6Rtt85uSbnMkEh2J8RzQ5XS+esWZSm8BoeGkdnto1Y2tATuWAnp+5cZX4b\nW/ol+rYAXRBcATLR77sckhUWFfu8L6kbGCZ/nqcBAoGBAMpiQqh1eDHb8cuHblgF\n59vwZQEUtU43Z6GkzcAi99DysWIIZRcCBKzD1fsTGHKIYhMX/a6Qh7WbPSJePdHx\nNi1d2pQgxCanYrCmw7GJLE9Vb/ymD/rx3nj76E0xaNEnN9txvvwm/N8SgddxpSej\nc/3AK7O8/9Cf+Id3IZCT15BW\n-----END PRIVATE KEY-----\n",
+  "client_email": "aurelie@mimirhome-app.iam.gserviceaccount.com",
+  "client_id": "105959146820022270531",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/aurelie%40mimirhome-app.iam.gserviceaccount.com"
+}
