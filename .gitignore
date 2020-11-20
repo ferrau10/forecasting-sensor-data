@@ -1,3 +1,7 @@
+#files not needed
+Data_analysis_gitignore.ipynb
+Get_plant_data_gitignore.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
