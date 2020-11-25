@@ -28,5 +28,5 @@ I needed to collect two sets of data: indoor data (as my labels) and outdoors da
 Firebase, Linear Regression, Decision Tree, Random Forrest, Gradient Descent, Catboost, requests, openweather api.
 
 # Credits
-Lloyd, mimir etc... 
+Lloyd Richard, and all the mimir team
 
