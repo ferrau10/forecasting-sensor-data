@@ -14,6 +14,7 @@ I needed to collect two sets of data: indoor data (as my labels) and outdoors da
 
 # The results
 - I am able to predict the sensor readings for temperature and humidity in an acceptable way but am not able to predict the other variables. 
+
 ![visualization](./Pictures/temp.png)
 ![visualization](./Pictures/hum.png)
 
