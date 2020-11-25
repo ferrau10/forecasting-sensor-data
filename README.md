@@ -1,4 +1,4 @@
-# spiced_final_project
+# Forecasting Sensor Data
 Plant growth and health is heavily influenced by humidity, temperature, light and CO2 levels. I want to be able to predict these values, so that I can take informed preventive decisions to take care of my plants. In this project, I want to know if I can predict these variables only by using the local weather forecast:
 
 #### Can outdoors weather data be used to predict indoors temperature, humidty, light, and CO2 levels? 
@@ -14,7 +14,8 @@ I needed to collect two sets of data: indoor data (as my labels) and outdoors da
 
 # The results
 - I am able to predict the sensor readings for temperature and humidity in an acceptable way but am not able to predict the other variables. 
-
+![visualization](./Pictures/temp.png)
+![visualization](./Pictures/hum.png)
 
 # Usage
 - make sure you can use Jupyter Notebooks
