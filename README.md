@@ -19,7 +19,6 @@ I needed to collect two sets of data: indoor data (as my labels) and outdoors da
 ![visualization](./Pictures/hum.png)
 
 # Usage
-- make sure you can use Jupyter Notebooks
 - git clone 
 - pip install -r requirements.txt
 - run the notebook 
