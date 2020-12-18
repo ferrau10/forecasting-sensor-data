@@ -20,8 +20,8 @@ I needed to collect two sets of data: indoor data (as my labels) and outdoors da
 
 # Usage
 - git clone 
-- pip install -r requirements.txt
-- run the notebook 
+- `pip install -r requirements.txt`
+- `run the notebook` 
 
 # Keywords
 Firebase, Linear Regression, Decision Tree, Random Forrest, Gradient Descent, Catboost, requests, openweather api.
